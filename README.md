@@ -1,17 +1,46 @@
-# React + Vite
+# HAPSIS - Healthcare Academic & Professional Skill Intelligence System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern web application built for Ingenium Hackathon 7.0 that provides AI-powered skill analysis and personalized career guidance for healthcare professionals and students.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Skill Intelligence**: AI-powered analysis of academic and professional skills
+- **Career Pathways**: Personalized career recommendations based on skill profiles
+- **Skill Development**: Curated learning paths and resources
+- **Academic Focus**: Specialized insights for healthcare and medical education
+- **Professional Growth**: Track professional development and stay competitive
+- **Smart Recommendations**: Actionable insights tailored to career stage
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Frontend**: React 19 + Vite
+- **Routing**: React Router DOM
+- **Styling**: CSS with Glassmorphism design
+- **Icons**: React Icons, Lucide React
+- **Animations**: Framer Motion
+- **Charts**: Recharts
 
-## Expanding the ESLint configuration
+## 📦 Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# Ingenium-Hackathon-7.0" 
+```bash
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
+# Build for production
+npm run build
+```
+
+## 🎨 Design
+
+Modern glassmorphism design with:
+- Vibrant gradient color schemes
+- Smooth animations and transitions
+- Responsive layouts
+- Premium UI/UX experience
+
+## 📄 License
+
+Built for Ingenium Hackathon 7.0
